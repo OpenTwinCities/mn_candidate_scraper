@@ -1,6 +1,8 @@
 Minnesota Candidate Scraper
 ===========================
 
+[![CircleCI](https://circleci.com/gh/OpenTwinCities/mn_candidate_scraper.svg?style=svg)](https://circleci.com/gh/OpenTwinCities/mn_candidate_scraper)
+
 A simple script that scrapes public candidate data from the
 [Minnesota Secretary of State's website](https://candidates.sos.state.mn.us/)
 and saves this data to a CSV.
